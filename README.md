@@ -1,7 +1,7 @@
 <h3 align="center"> 👋 Hi there 👋 
  <br />
  
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23F50071&title_bg=%23494644&icon=&icon_color=%23EDDCDC&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frachel490&count_bg=%23F50071&title_bg=%23494644&icon=&icon_color=%23EDDCDC&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </h3>
 <p align="center">
