@@ -1,16 +1,19 @@
-### Hi there 👋
+<h3 align="center"> 👋 Hi there 👋 </h3>
+<p align="center">
+I'm Rachel Shin, a growing developer. 🌱 <br>
+Hope to give positive changes in people's life ✨
+</p>
+ 
+<!-- stats  -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rachel490)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
-**rachel490/rachel490** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<!-- hits -->
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23F50071&title_bg=%23494644&icon=&icon_color=%23EDDCDC&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
+<!-- mail -->
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rachel4803@gmail.com)](mailto:rachel4803@gmail.com)
+
+  
+</p>
